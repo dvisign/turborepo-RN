@@ -30,8 +30,10 @@ const styles = StyleSheet.create({
     paddingRight: 30,
     fontSize: 15,
     backgroundColor: "#2f80ed",
+    margin: "auto",
   },
   text: {
     color: "white",
+    textAlign: "center",
   },
 });
